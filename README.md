@@ -7,5 +7,5 @@ This application generates images based on text prompts using Stable Diffusion.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Subhatharani/SubhaSubha-21/text2image-generator.git
+   git clone https://github.com/Subhatharani/text2image-generator.git
    cd text2image-generator
